@@ -1,1 +1,2 @@
 Good Morning Everyone
+Welcome to Git, singapore commit.
